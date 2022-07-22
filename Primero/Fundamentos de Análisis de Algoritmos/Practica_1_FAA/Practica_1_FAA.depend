@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1554216816 source:c:\users\migue\desktop\practica_1_faa\src\mtime.cpp
+	"Mtime.h"
+
+1554216819 c:\users\migue\desktop\practica_1_faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1554220864 source:c:\users\migue\desktop\practica_1_faa\main.cpp
+	<iostream>
+	"TestAlgoritmo.h"
+	"ConjuntosInt.h"
+	"Mtime.h"
+	"Constantes.h"
+
+1554220198 c:\users\migue\desktop\practica_1_faa\include\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1554216840 c:\users\migue\desktop\practica_1_faa\include\constantes.h
+
+1554216904 c:\users\migue\desktop\practica_1_faa\include\conjuntosint.h
+	<iostream>
+
+1554217303 source:c:\users\migue\desktop\practica_1_faa\src\conjuntosint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntosInt.h"
+
+1554217438 source:c:\users\migue\desktop\practica_1_faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1554217438 c:\users\migue\desktop\practica_1_faa\include\conjuntoint.h
+	<iostream>
+
+1554222215 source:c:\users\migue\desktop\practica_1_faa\src\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1554220866 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\main.cpp
+	<iostream>
+	"TestAlgoritmo.h"
+	"ConjuntosInt.h"
+	"Mtime.h"
+	"Constantes.h"
+
+1554220200 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\include\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1554216906 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\include\conjuntosint.h
+	<iostream>
+
+1554216820 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1554216842 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\include\constantes.h
+
+1554217440 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1554217440 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\include\conjuntoint.h
+	<iostream>
+
+1554216818 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\src\mtime.cpp
+	"Mtime.h"
+
+1554567134 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica_1_faa\src\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1554572196 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\main.cpp
+	<iostream>
+	"TestAlgoritmo.h"
+	"ConjuntosInt.h"
+	"Mtime.h"
+	"Constantes.h"
+
+1554220200 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1554216906 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\conjuntosint.h
+	<iostream>
+
+1554216820 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1554216842 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\constantes.h
+
+1554217440 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1554217440 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\conjuntoint.h
+	<iostream>
+
+1554216818 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\src\mtime.cpp
+	"Mtime.h"
+
+1554579890 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\src\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1554568596 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\main.cpp
+	<iostream>
+	"TestAlgoritmo.h"
+	"ConjuntosInt.h"
+	"Mtime.h"
+	"Constantes.h"
+
+1554216600 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\testalgoritmo.h
+	<string>
+	<vector>
+	<iostream>
+
+1554213306 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\conjuntosint.h
+	<iostream>
+
+1554213220 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1554213242 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\constantes.h
+
+1554213840 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1554213840 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\include\conjuntoint.h
+	<iostream>
+
+1554213218 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\src\mtime.cpp
+	"Mtime.h"
+
+1554576290 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 1 18-19\practica_1_faa\src\testalgoritmo.cpp
+	"TestAlgoritmo.h"
+	"Constantes.h"
+	"ConjuntoInt.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+

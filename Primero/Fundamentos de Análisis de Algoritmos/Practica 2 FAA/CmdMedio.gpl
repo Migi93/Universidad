@@ -1,0 +1,14 @@
+#ESTE ES UN SCRIPT DE GNUPLOT PARA GNUPLOT PARA ESTUDIO DE 1 METODO
+set title "Seleccion"
+set key top left vertical inside
+set grid
+set xlabel "Talla (n)"
+set ylabel "Tiempo(ms)"
+
+N(x) = a*x*x + b*x + c
+fit N(x) "tSeleccion.dat" using 1:2 via a,b,c
+plot N(x) title "Aproximación", "tSeleccion.dat" using 1:2 title "Resultado empírico"
+set terminal pdf
+set output "busquedaSeleccion.pdf"
+replot
+pause -1 "Pulsa Enter para continuar..."

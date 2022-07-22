@@ -1,0 +1,14 @@
+#ESTE ES UN SCRIPT DE GNUPLOT PARA GNUPLOT PARA ESTUDIO DE 1 METODO
+set title "Quicksort"
+set key top left vertical inside
+set grid
+set xlabel "Talla (n)"
+set ylabel "Tiempo(ms)"
+
+Funcion(x) = a*x*log(x)+b
+fit Funcion(x) "tQuicksort.dat" using 1:2 via a,b
+plot Funcion(x) title "Aproximación", "tQuicksort.dat" using 1:2 title "Resultado empírico"
+set terminal pdf
+set output "busquedaQuicksort.pdf"
+replot
+pause -1 "Pulsa Enter para continuar..."

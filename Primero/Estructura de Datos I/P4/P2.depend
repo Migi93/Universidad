@@ -1,0 +1,212 @@
+# depslib dependency file v1.0
+1652092002 source:c:\users\usuario\desktop\p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Pila.h>
+	<CriptoDoc.h>
+	<stdio.h>
+	<cstring>
+
+1652090838 c:\users\usuario\desktop\p2\include\pila.h
+	<iostream>
+
+1652090838 c:\users\usuario\desktop\p2\include\criptodoc.h
+	"Lista.h"
+	<cstdlib>
+
+1652090838 c:\users\usuario\desktop\p2\include\lista.h
+	<fstream>
+	<string>
+
+1652090912 source:c:\users\usuario\desktop\p2\src\criptodoc.cpp
+	"CriptoDoc.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1652090912 source:c:\users\usuario\desktop\p2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1652090912 source:c:\users\usuario\desktop\p2\src\pila.cpp
+	"Pila.h"
+
+1652095470 source:d:\p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Pila.h>
+	<CriptoDoc.h>
+	<stdio.h>
+	<cstring>
+
+1652090840 d:\p2\include\pila.h
+	<iostream>
+
+1652090840 d:\p2\include\criptodoc.h
+	"Lista.h"
+	<cstdlib>
+
+1652090840 d:\p2\include\lista.h
+	<fstream>
+	<string>
+
+1652094226 source:d:\p2\src\criptodoc.cpp
+	"CriptoDoc.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1652090914 source:d:\p2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1652090914 source:d:\p2\src\pila.cpp
+	"Pila.h"
+
+1653139576 source:e:\p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Pila.h>
+	<CriptoDoc.h>
+	<stdio.h>
+	<cstring>
+	<stdio.h>
+
+1652090840 e:\p2\include\pila.h
+	<iostream>
+
+1652698764 e:\p2\include\criptodoc.h
+	"Lista.h"
+	<cstdlib>
+
+1652090840 e:\p2\include\lista.h
+	<fstream>
+	<string>
+
+1653080754 source:e:\p2\src\criptodoc.cpp
+	"CriptoDoc.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1652196772 source:e:\p2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1652090914 source:e:\p2\src\pila.cpp
+	"Pila.h"
+
+1652698494 source:h:\p2\src\criptodoc.cpp
+	"CriptoDoc.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1652696818 h:\p2\include\criptodoc.h
+	"Lista.h"
+	<cstdlib>
+
+1652090840 h:\p2\include\lista.h
+	<fstream>
+	<string>
+
+1652196772 source:h:\p2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1652090914 source:h:\p2\src\pila.cpp
+	"Pila.h"
+
+1652090840 h:\p2\include\pila.h
+	<iostream>
+
+1652697120 source:h:\p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Pila.h>
+	<CriptoDoc.h>
+	<stdio.h>
+	<cstring>
+
+1653909034 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Pila.h>
+	<CriptoDoc.h>
+	<Cola.h>
+	<stdio.h>
+	<cstring>
+	<stdio.h>
+
+1652090840 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\pila.h
+	<iostream>
+
+1653906098 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\criptodoc.h
+	"Lista.h"
+	<cstdlib>
+
+1652090840 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\lista.h
+	<fstream>
+	<string>
+
+1653907944 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\criptodoc.cpp
+	"CriptoDoc.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1652196772 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1652090914 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\pila.cpp
+	"Pila.h"
+
+1653908664 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Pila.h>
+	<CriptoDoc.h>
+	<Cola.h>
+	<stdio.h>
+	<cstring>
+	<stdio.h>
+
+1652090840 h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\pila.h
+	<iostream>
+
+1653906098 h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\criptodoc.h
+	"Lista.h"
+	<cstdlib>
+
+1652090840 h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\lista.h
+	<fstream>
+	<string>
+
+1653907944 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\criptodoc.cpp
+	"CriptoDoc.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1652196772 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1652090914 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\pila.cpp
+	"Pila.h"
+
+1653904102 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\cola.cpp
+	"Cola.h"
+
+1653904012 h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\cola.h
+	<fstream>
+	<string>
+
+1653904102 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\src\cola.cpp
+	"Cola.h"
+
+1653904012 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p2\include\cola.h
+	<fstream>
+	<string>
+

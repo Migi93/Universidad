@@ -1,0 +1,592 @@
+# depslib dependency file v1.0
+1554751636 source:h:\practica 2 faa\main.cpp
+	"TestOrdenacion.h"
+	<iostream>
+	<cstdlib>
+
+1554750568 h:\practica 2 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1554753332 source:h:\practica 2 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1554750568 h:\practica 2 faa\include\algoritmosordenacion.h
+
+1554750394 source:h:\practica 2 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1554750568 h:\practica 2 faa\include\conjuntoint.h
+	<iostream>
+
+1554750298 source:h:\practica 2 faa\src\mtime.cpp
+	"Mtime.h"
+
+1554750568 h:\practica 2 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1554750386 source:h:\practica 2 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1554750568 h:\practica 2 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1554750692 h:\practica 2 faa\include\constantes.h
+
+1554750390 source:h:\practica 2 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1554748036 source:e:\practica 2 faa\main.cpp
+	"TestOrdenacion.h"
+	<iostream>
+	<cstdlib>
+
+1554746968 e:\practica 2 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1554746794 source:e:\practica 2 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1554746968 e:\practica 2 faa\include\conjuntoint.h
+	<iostream>
+
+1554746786 source:e:\practica 2 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1554746968 e:\practica 2 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1554747092 e:\practica 2 faa\include\constantes.h
+
+1554746698 source:e:\practica 2 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555846326 e:\practica 2 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1554746790 source:e:\practica 2 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1554746968 e:\practica 2 faa\include\algoritmosordenacion.h
+
+1555846184 source:e:\practica 2 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1556382956 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\main.cpp
+	"TestOrdenacion.h"
+	<iostream>
+	<cstdlib>
+
+1556710600 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1556360650 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1554746968 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\algoritmosordenacion.h
+
+1556561620 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1556561620 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\conjuntoint.h
+	<iostream>
+
+1556560808 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1554746968 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1554747092 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\constantes.h
+
+1554746698 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555846326 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1556811084 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1556386556 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\main.cpp
+	"TestOrdenacion.h"
+	<iostream>
+	<cstdlib>
+
+1554750568 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1556364250 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1554750568 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\algoritmosordenacion.h
+
+1556565220 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1556565220 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\conjuntoint.h
+	<iostream>
+
+1556564408 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1554750568 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1554750692 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\constantes.h
+
+1554750298 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555849926 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1556564568 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1556386556 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\main.cpp
+	"TestOrdenacion.h"
+	<iostream>
+	<cstdlib>
+
+1556714200 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1556364250 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1554750568 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\algoritmosordenacion.h
+
+1556565220 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1556565220 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\conjuntoint.h
+	<iostream>
+
+1556564408 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1554750568 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1554750692 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\constantes.h
+
+1554750298 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555849926 g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1556814684 source:g:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 2 18-19\practica 2 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1558984578 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\main.cpp
+	"TestOrdenacion.h"
+	"TestBusqueda.h"
+	<iostream>
+	<cstdlib>
+
+1556714200 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1558984578 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1558983668 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosordenacion.h
+
+1557589840 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1557589838 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\conjuntoint.h
+	<iostream>
+
+1557773010 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1557587828 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1558984792 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\constantes.h
+
+1554750298 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555849926 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1558984988 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1558969714 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosbusqueda.cpp
+	"AlgoritmosBusqueda.h"
+
+1557502168 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosbusqueda.h
+
+1558969488 source:h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testbusqueda.cpp
+	"TestBusqueda.h"
+	"Constantes.h"
+	"AlgoritmosBusqueda.h"
+	"AlgoritmosOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1557169476 h:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testbusqueda.h
+	<string>
+	<vector>
+	<iostream>
+
+1558966114 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosbusqueda.cpp
+	"AlgoritmosBusqueda.h"
+
+1557498568 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosbusqueda.h
+
+1558980978 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1558980068 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosordenacion.h
+
+1557586240 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1557586238 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\conjuntoint.h
+	<iostream>
+
+1557769410 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1557584228 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1558981192 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\constantes.h
+
+1554746698 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555846326 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1558965888 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testbusqueda.cpp
+	"TestBusqueda.h"
+	"Constantes.h"
+	"AlgoritmosBusqueda.h"
+	"AlgoritmosOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1557165876 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testbusqueda.h
+	<string>
+	<vector>
+	<iostream>
+
+1558981388 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1556710600 e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1558981714 source:e:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\main.cpp
+	"TestOrdenacion.h"
+	"TestBusqueda.h"
+	<iostream>
+	<cstdlib>
+
+1557603444 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\main.cpp
+	"TestOrdenacion.h"
+	"TestBusqueda.h"
+	<iostream>
+	<cstdlib>
+
+1556714200 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1557169476 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testbusqueda.h
+	<string>
+	<vector>
+	<iostream>
+
+1557770984 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosbusqueda.cpp
+	"AlgoritmosBusqueda.h"
+
+1557502168 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosbusqueda.h
+
+1556364250 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1554750568 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosordenacion.h
+
+1557589840 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1557589838 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\conjuntoint.h
+	<iostream>
+
+1557773010 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1557587828 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1557502672 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\constantes.h
+
+1554750298 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555849926 j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1557772962 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testbusqueda.cpp
+	"TestBusqueda.h"
+	"Constantes.h"
+	"AlgoritmosBusqueda.h"
+	"AlgoritmosOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1557773102 source:j:\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1557599844 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\main.cpp
+	"TestOrdenacion.h"
+	"TestBusqueda.h"
+	<iostream>
+	<cstdlib>
+
+1556710600 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testordenacion.h
+	<vector>
+	<string>
+	<iostream>
+
+1557165876 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\testbusqueda.h
+	<string>
+	<vector>
+	<iostream>
+
+1557767384 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosbusqueda.cpp
+	"AlgoritmosBusqueda.h"
+
+1557498568 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosbusqueda.h
+
+1556360650 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\algoritmosordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+
+1554746968 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\algoritmosordenacion.h
+
+1557586240 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\conjuntoint.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConjuntoInt.h"
+
+1557586238 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\conjuntoint.h
+	<iostream>
+
+1557769410 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\graficas.cpp
+	"Graficas.h"
+	"Constantes.h"
+	<fstream>
+	<iostream>
+
+1557584228 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\graficas.h
+	<string>
+	<iostream>
+
+1557499072 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\constantes.h
+
+1554746698 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\mtime.cpp
+	"Mtime.h"
+
+1555846326 c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\include\mtime.h
+	<stdio.h>
+	<windows.h>
+
+1557769362 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testbusqueda.cpp
+	"TestBusqueda.h"
+	"Constantes.h"
+	"AlgoritmosBusqueda.h"
+	"AlgoritmosOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1557769502 source:c:\users\miguel sánchez\desktop\universidad\primero 18-19\segundo cuatrimestre\fundamentos de analisis de algoritmos\practicas\practica 3 18-19\practica 3 faa\src\testordenacion.cpp
+	"AlgoritmosOrdenacion.h"
+	"TestOrdenacion.h"
+	"ConjuntoInt.h"
+	"Graficas.h"
+	"Mtime.h"
+	"Constantes.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+

@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1649066558 source:c:\users\usuario\desktop\borrar\p1\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<Prueba.h>
+
+1649066597 c:\users\usuario\desktop\borrar\p1\include\prueba.h
+	"Clasificacion.h"
+	<iostream>
+	<fstream>
+
+1649066597 c:\users\usuario\desktop\borrar\p1\include\clasificacion.h
+	<cstddef>
+
+1649067003 source:c:\users\usuario\desktop\borrar\p1\src\clasificacion.cpp
+	<Clasificacion.h>
+	<iostream>
+
+1649067013 source:c:\users\usuario\desktop\borrar\p1\src\prueba.cpp
+	"Prueba.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<Clasificacion.h>
+	<stdlib.h>
+
+1649066560 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<Prueba.h>
+
+1649066598 h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\include\prueba.h
+	"Clasificacion.h"
+	<iostream>
+	<fstream>
+
+1649066598 h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\include\clasificacion.h
+	<cstddef>
+
+1649067004 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\src\clasificacion.cpp
+	<Clasificacion.h>
+	<iostream>
+
+1649067014 source:h:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\src\prueba.cpp
+	"Prueba.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<Clasificacion.h>
+	<stdlib.h>
+
+1649070160 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<Prueba.h>
+
+1649070198 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\include\prueba.h
+	"Clasificacion.h"
+	<iostream>
+	<fstream>
+
+1649070198 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\include\clasificacion.h
+	<cstddef>
+
+1649070604 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\src\clasificacion.cpp
+	<Clasificacion.h>
+	<iostream>
+
+1649070614 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\edi 21-22\p1\src\prueba.cpp
+	"Prueba.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<Clasificacion.h>
+	<stdlib.h>
+

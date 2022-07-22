@@ -1,0 +1,1 @@
+En un sistema que garantice la confidencialidad, un tercero no es capaz de extraer contenido inteligible.
