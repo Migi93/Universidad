@@ -1,0 +1,16 @@
+1- Coloca la carpeta en el Escritorio y colocate en la carpeta sintetizador, ES IMPORTANTE QUE ABRAMOS UN CMD DESDE ESTA CARPETA
+Y NO DESDE OTRA CARPETA DENTRO DE LA MISMA Y EJECUTEMOS LOS COMANDOS SIN MOVERNOS HACIA NINGUNA OTRA CARPETA.
+
+2- Abrir un cmd desde la barra de dirrecion de la carpeta, de tal forma que nos colocará en la carpeta 
+"Sintetizador" de forma automatica, asi nos ahorramos tener que navegar desde el cmd hacia esta carpeta
+
+3- una vez situados en la carpeta Sintetizador introducir el siguiente 
+comando en la consola: javac -cp . sintetizadorconcatenativo/*.java
+
+4- El comando anterior deberia haber generado los .class y ahora podremos meter el siguiente comando para generar 
+el audio que se desee teniendo en cuenta las limitaciones de la 
+aplicacion:java -cp . sintetizadorconcatenativo/SintetizadorConcatenativo cadenaAreproducir rutadelResultado.wav 
+
+NOTA: Si la cadenaAreproducir lleva espacio, se tendrá que poner entre comillas dobles "cadenaAreproducir", por tanto seria
+de la misma forma pero con los correspondientes espacios, Ejemplo:
+java -cp . sintetizadorconcatenativo/SintetizadorConcatenativo "cadena A reproducir" rutadelResultado.wav
