@@ -1,0 +1,143 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package practica.pkg1;
+
+/**
+ *
+ * @author Miguel Sánchez
+ */
+public class ColaLenta implements ICola {
+
+    private int head;//Posicion del array del cual se extrae el elemento
+    private int tail;//Posicion en la que se va a introducir el elemento
+    private final int capacidad;//Numero de elementos que caben en el array
+    private int numelementos;//Numero de elementos que hay introducidos en el array
+    private final Object datos[];//array para los elementos
+    private final CanvasCola canvas;
+
+    /**
+     * Constructor de la clase Cola, estable el tamaño maximo de la cola
+     *
+     * @param capacidad tamaño maximo de la cola
+     * @param canvas
+     */
+    public ColaLenta(int capacidad, CanvasCola canvas) {
+        this.canvas = canvas;
+        this.capacidad = capacidad;
+        datos = new Object[this.capacidad];
+        this.numelementos = 0;
+        this.head = 0;
+        this.tail = 0;
+    }
+
+    @Override
+    public int GetNum() {
+        return this.numelementos;
+    }
+
+    @Override
+    public synchronized void Acola(Object obj) throws Exception {
+        Thread t = Thread.currentThread();
+        int intentos = 0;
+        while (colallena() == true) {
+            canvas.avisa("COLA LLENA");
+            if (intentos >= 3) {
+                canvas.avisa("COLA LLENA");
+                throw new Exception("Se han superado el numero de intentos para el hilo: " + t.getId());
+            }
+            System.out.println("Esperando para acolar el hilo: " + t.getId());
+            intentos++;
+            wait();
+        }
+        if (intentos < 3) {
+            datos[this.tail] = obj;
+            Thread.sleep(100);
+            this.numelementos++;
+            Thread.sleep(100);
+            this.tail++;
+            if (this.capacidad == this.tail) {
+                this.tail = 0;
+            }
+            canvas.representa(datos, head, tail, numelementos);
+            notifyAll();
+        } 
+    }
+
+    @Override
+    public synchronized Object Desacola() throws Exception {
+        Thread t = Thread.currentThread();
+        int intentos = 0;
+        while (colavacia() == true) {
+            canvas.avisa("COLA VACIA");
+            if(intentos >= 3){
+            canvas.avisa("COLA VACIA");
+            throw new Exception("Se han superado el numero maximo de intento para el desacola del hilo: " + t.getId());
+            }
+            System.out.println("Esperando para desacolar el hilo: " + t.getId());
+            intentos++;
+            wait();
+        } 
+            Object obj = datos[this.head];
+            Thread.sleep(100);
+            datos[this.head] = null;
+            Thread.sleep(100);
+            this.numelementos--;
+            Thread.sleep(100);
+            this.head++;
+            if (this.head == this.capacidad) {
+                this.head = 0;
+            }
+            canvas.representa(datos, head, tail, numelementos);
+            notifyAll();
+            return obj;
+    }
+
+    @Override
+    public Object Primero() throws Exception {
+        if (colavacia() == true) {
+            throw new Exception("La cola esta vacia, imposible devolver algun elemento");
+        } else {
+            return datos[this.head];
+        }
+    }
+
+    /**
+     * Metodo que devuelve un true cuando la cola esta vacia
+     *
+     * @return te devuelve un boolean en funcion del estado de la cola
+     */
+    private boolean colavacia() {
+        if (GetNum() == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    /**
+     * Metodo que devuelve un true cuando la cola esta llena
+     *
+     * @return te devuelve un boolean en funcion del estado de la cola
+     */
+    private boolean colallena() {
+        if (GetNum() == this.capacidad) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    @Override
+    public String toString() {
+        String cola = "";
+        for (int i = 0; i < this.capacidad; i++) {
+            if (datos[i] != null) {
+                cola = cola + datos[i].toString() + "-";
+            }
+        }
+        return cola;
+    }
+}
