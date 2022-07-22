@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1559559506 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\main.cpp
+	<iostream>
+	<peluqueria.h>
+	<cstdlib>
+	<cola.h>
+	<string>
+	<fstream>
+	<iomanip>
+
+1559557122 e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\peluqueria.h
+	<lista.h>
+	<cola.h>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1558295026 e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\lista.h
+	"cola.h"
+
+1558202028 e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\cola.h
+
+1558197668 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\cola.cpp
+	"cola.h"
+	<cstring>
+
+1558349692 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\lista.cpp
+	"lista.h"
+	<cstring>
+	<iostream>
+
+1559563400 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\peluqueria.cpp
+	"peluqueria.h"
+
+1558197668 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\cola.cpp
+	"cola.h"
+	<cstring>
+
+1558202028 h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\cola.h
+
+1558349692 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\lista.cpp
+	"lista.h"
+	<cstring>
+	<iostream>
+
+1558295026 h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\lista.h
+	"cola.h"
+
+1559563306 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\peluqueria.cpp
+	"peluqueria.h"
+
+1559557122 h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\peluqueria.h
+	<lista.h>
+	<cola.h>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1559559506 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\main.cpp
+	<iostream>
+	<peluqueria.h>
+	<cstdlib>
+	<cola.h>
+	<string>
+	<fstream>
+	<iomanip>
+
+1559559506 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\main.cpp
+	<iostream>
+	<peluqueria.h>
+	<cstdlib>
+	<cola.h>
+	<string>
+	<fstream>
+	<iomanip>
+
+1559557122 g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\peluqueria.h
+	<lista.h>
+	<cola.h>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1558295026 g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\lista.h
+	"cola.h"
+
+1558202028 g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\cola.h
+
+1558197668 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\cola.cpp
+	"cola.h"
+	<cstring>
+
+1558349692 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\lista.cpp
+	"lista.h"
+	<cstring>
+	<iostream>
+
+1559563400 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\peluqueria.cpp
+	"peluqueria.h"
+
+1559559506 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\main.cpp
+	<iostream>
+	<peluqueria.h>
+	<cstdlib>
+	<cola.h>
+	<string>
+	<fstream>
+	<iomanip>
+
+1559557122 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\peluqueria.h
+	<lista.h>
+	<cola.h>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1558295026 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\lista.h
+	"cola.h"
+
+1558202028 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\include\cola.h
+
+1558197668 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\cola.cpp
+	"cola.h"
+	<cstring>
+
+1558349692 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\lista.cpp
+	"lista.h"
+	<cstring>
+	<iostream>
+
+1559563400 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 2\p2\src\peluqueria.cpp
+	"peluqueria.h"
+

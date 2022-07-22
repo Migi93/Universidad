@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1556277950 source:c:\users\miguel sánchez\desktop\practica 1\main.cpp
+	<iostream>
+	"productos.h"
+	<cstdlib>
+	<string.h>
+
+1556278039 c:\users\miguel sánchez\desktop\practica 1\include\productos.h
+	"ventas.h"
+	<cstring>
+	<iostream>
+
+1556277991 c:\users\miguel sánchez\desktop\practica 1\include\ventas.h
+	<fstream>
+	<cstring>
+	<iostream>
+
+1556278058 source:c:\users\miguel sánchez\desktop\practica 1\src\productos.cpp
+	"productos.h"
+	<conio.h>
+
+1556278739 source:c:\users\miguel sánchez\desktop\practica 1\src\ventas.cpp
+	"ventas.h"
+	"productos.h"
+
+1556534970 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\main.cpp
+	<iostream>
+	"productos.h"
+	<cstdlib>
+	<string.h>
+
+1556533506 e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\include\productos.h
+	"ventas.h"
+	<cstring>
+	<iostream>
+
+1556533422 e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\include\ventas.h
+	<fstream>
+	<cstring>
+	<iostream>
+
+1556533740 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\src\productos.cpp
+	"productos.h"
+	<conio.h>
+
+1556535792 source:e:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\src\ventas.cpp
+	"ventas.h"
+	"productos.h"
+
+1556291510 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\main.cpp
+	<iostream>
+	"productos.h"
+	<cstdlib>
+	<string.h>
+
+1556529906 g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\include\productos.h
+	"ventas.h"
+	<cstring>
+	<iostream>
+
+1556529906 g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\include\ventas.h
+	<fstream>
+	<cstring>
+	<iostream>
+
+1556292036 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\src\productos.cpp
+	"productos.h"
+	<conio.h>
+
+1556530102 source:g:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\src\ventas.cpp
+	"ventas.h"
+	"productos.h"
+	<conio.h>
+	<stdlib.h>
+
+1556538570 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\main.cpp
+	<iostream>
+	"productos.h"
+	<cstdlib>
+	<string.h>
+
+1556537106 h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\include\productos.h
+	"ventas.h"
+	<cstring>
+	<iostream>
+
+1556537022 h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\include\ventas.h
+	<fstream>
+	<cstring>
+	<iostream>
+
+1556537340 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\src\productos.cpp
+	"productos.h"
+	<conio.h>
+
+1556538956 source:h:\universidad\primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1\src\ventas.cpp
+	"ventas.h"
+	"productos.h"
+	<conio.h>
+	<stdlib.h>
+
+1556538570 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\main.cpp
+	<iostream>
+	"productos.h"
+	<cstdlib>
+	<string.h>
+
+1556537106 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\include\productos.h
+	"ventas.h"
+	<cstring>
+	<iostream>
+
+1556537022 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\include\ventas.h
+	<fstream>
+	<cstring>
+	<iostream>
+
+1556537340 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\src\productos.cpp
+	"productos.h"
+	<conio.h>
+
+1556539392 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\src\ventas.cpp
+	"ventas.h"
+	"productos.h"
+
+1646859080 source:e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\src\clasificacion.cpp
+	"Clasificacion.h"
+
+1646859206 e:\universidad\1º primero 18-19\segundo cuatrimestre\estructura de datos\practica 1\p1 con la modificacion\include\clasificacion.h
+	<fstream>
+	<iostream>
+
