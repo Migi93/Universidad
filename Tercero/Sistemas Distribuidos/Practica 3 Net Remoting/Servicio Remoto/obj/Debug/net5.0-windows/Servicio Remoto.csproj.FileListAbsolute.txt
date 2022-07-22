@@ -1,0 +1,12 @@
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\net5.0-windows\Servicio Remoto.deps.json
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\net5.0-windows\Servicio Remoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\net5.0-windows\ref\Servicio Remoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\net5.0-windows\Servicio Remoto.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.csprojAssemblyReference.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.AssemblyInfoInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.AssemblyInfo.cs
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\ref\Servicio Remoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\net5.0-windows\Servicio Remoto.pdb

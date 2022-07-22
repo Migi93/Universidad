@@ -1,0 +1,7 @@
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\bin\Debug\Practica4 Servicio.dll.config
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\bin\Debug\Practica4 Servicio.dll
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\bin\Debug\Practica4 Servicio.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\obj\Debug\Practica4 Servicio.csprojAssemblyReference.cache
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\obj\Debug\Practica4 Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\obj\Debug\Practica4 Servicio.dll
+C:\Users\Miguel Sánchez\source\repos\Practica4 Servicio\obj\Debug\Practica4 Servicio.pdb

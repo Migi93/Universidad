@@ -1,0 +1,9 @@
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\netcoreapp3.0\Servicio Remoto.deps.json
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\netcoreapp3.0\Servicio Remoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\bin\Debug\netcoreapp3.0\Servicio Remoto.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\netcoreapp3.0\Servicio Remoto.csprojAssemblyReference.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\netcoreapp3.0\Servicio Remoto.AssemblyInfoInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\netcoreapp3.0\Servicio Remoto.AssemblyInfo.cs
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\netcoreapp3.0\Servicio Remoto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\netcoreapp3.0\Servicio Remoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servicio Remoto\obj\Debug\netcoreapp3.0\Servicio Remoto.pdb

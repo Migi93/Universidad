@@ -1,0 +1,6 @@
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\ServicioRemoto\bin\Debug\ServicioRemoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\ServicioRemoto\bin\Debug\ServicioRemoto.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\ServicioRemoto\obj\Debug\ServicioRemoto.csprojAssemblyReference.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\ServicioRemoto\obj\Debug\ServicioRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\ServicioRemoto\obj\Debug\ServicioRemoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\ServicioRemoto\obj\Debug\ServicioRemoto.pdb

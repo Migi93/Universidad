@@ -1,0 +1,7 @@
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\bin\Debug\Practica4 Cliente.exe.config
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\bin\Debug\Practica4 Cliente.exe
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\bin\Debug\Practica4 Cliente.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\obj\Debug\Practica4 Cliente.csprojAssemblyReference.cache
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\obj\Debug\Practica4 Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\obj\Debug\Practica4 Cliente.exe
+C:\Users\Miguel Sánchez\source\repos\Practica4 Cliente\obj\Debug\Practica4 Cliente.pdb

@@ -1,0 +1,10 @@
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\bin\Debug\Servidor.exe
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\bin\Debug\ServicioRemoto.dll
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\bin\Debug\ServicioRemoto.pdb
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\obj\Debug\Servidor.exe
+C:\Users\Miguel Sánchez\source\repos\Practica 3 Net Remoting\Servidor\obj\Debug\Servidor.pdb

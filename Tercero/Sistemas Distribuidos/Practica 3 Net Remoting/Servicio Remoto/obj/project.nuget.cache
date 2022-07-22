@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FhBqE9exMLizM4iTnHb3ElHcrMwfGuHpHmCMEh0o9P2MePvHCba+jTKKxmen999UNfJWpkioZBjeGwEhSP9yPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Sánchez\\source\\repos\\Practica 3 Net Remoting\\Servicio Remoto\\Servicio Remoto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Sánchez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Miguel Sánchez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Sánchez\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
