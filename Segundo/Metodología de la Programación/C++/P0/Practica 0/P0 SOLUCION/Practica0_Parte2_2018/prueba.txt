@@ -1,0 +1,3 @@
+c1 vale 3-7i
+c2 vale 2+5i
+c3 vale 0+1i

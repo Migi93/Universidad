@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1508148124 source:c:\users\usuario\documents\practica0\main.cpp
+	<iostream>
+	"complejo.h"
+
+1508148607 c:\users\usuario\documents\practica0\include\complejo.h
+
+1508148227 source:c:\users\usuario\documents\practica0\src\complejo.cpp
+	<iostream>
+	<cmath>
+	"complejo.h"
+
+1508145007 source:c:\users\amarquez\downloads\practica0parte2\practica0parte2\main.cpp
+	<iostream>
+	"complejo.h"
+
+1508318733 c:\users\amarquez\downloads\practica0parte2\practica0parte2\include\complejo.h
+
+1508318885 source:c:\users\amarquez\downloads\practica0parte2\practica0parte2\src\complejo.cpp
+	<iostream>
+	<cmath>
+	"complejo.h"
+
+1508319993 source:c:\users\amarquez\downloads\practica0parte1\main.cpp
+	<iostream>
+	"complejo.h"
+
+1508320060 c:\users\amarquez\downloads\practica0parte1\include\complejo.h
+
+1508318885 source:c:\users\amarquez\downloads\practica0parte1\src\complejo.cpp
+	<iostream>
+	<cmath>
+	"complejo.h"
+
+1508749727 source:c:\users\usuario\downloads\practica0_ayuda_parte1_2017\main.cpp
+	<iostream>
+	<fstream>
+	"complejo.h"
+
+1508750493 c:\users\usuario\downloads\practica0_ayuda_parte1_2017\include\complejo.h
+	<iostream>
+
+1508750195 source:c:\users\usuario\downloads\practica0_ayuda_parte1_2017\src\complejo.cpp
+	<iostream>
+	<cmath>
+	"complejo.h"
+
+1542099174 source:c:\users\amarquez\downloads\practica0_ayuda_parte2_2017\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"complejo.h"
+
+1542099134 c:\users\amarquez\downloads\practica0_ayuda_parte2_2017\include\complejo.h
+	<iostream>
+
+1542099134 source:c:\users\amarquez\downloads\practica0_ayuda_parte2_2017\src\complejo.cpp
+	<iostream>
+	<cmath>
+	"complejo.h"
+

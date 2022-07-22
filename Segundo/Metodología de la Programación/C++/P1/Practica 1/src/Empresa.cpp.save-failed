@@ -1,0 +1,158 @@
+#include "Empresa.h"
+
+using namespace std;
+
+typedef char cadena[100];
+
+Empresa::Empresa():nmaxcli(100){
+    this->ncli=0;
+    this->ncon=0;
+    this->nmaxcon=10;//en el enunciado se dice que al principio la tabla sera de 10 inicialmente por tanto hay que inicializar la variable con 10
+    this->contratos=new Contrato*[10];
+}
+
+Empresa::~Empresa(){
+    for(int i=0;i<this->ncon;i++){
+        delete this->contratos[i];//con esto nos cargamos cada objeto
+    }
+        delete [] this->contratos;//con esto nos cargamos la tabla que contiene los punteros a los objetos
+
+    for(int j=0;j<this->ncli;j++){
+        delete this->clientes[j]; //nos cargamos los objetos de la tabla pero no podemos carganos la tabla porque es una tabla dinamica por tanto no la liberamos en memoria
+    }
+}
+
+int Empresa::altaCliente(Cliente *c){
+    int pos=-1;
+    if(this->ncli<100){
+        this->clientes[this->ncli]=c;
+        pos=this->ncli;//Nos quedamos con la posicion donde se ha introducido al cliente
+        this->ncli++;
+    }
+    else{
+        std::cout << "Ha superado el numero maximo de clientes que pueden darse de alta, por tanto no se ha podido introducir" << endl;
+    }
+    return pos;//Devolvemos -1 si no se ha introducido y devolvemos la posicion donde se ha introducido si, es que se ha introducido
+}
+
+int Empresa::buscarCliente(long int dni) const{//devuelve 1 si el cliente ha sido encontrado, 0 si no se ha encontrado
+    int i=1;
+    int pos=-1;
+    bool encontrado=false;
+    while(i<=this->ncon && encontrado==false){
+        if(this->contratos[i]->getDniContrato()==dni){
+            encontrado=true;
+            pos=i;
+        }
+        i++;
+    }
+    return pos;
+}
+
+void Empresa::crearContrato(){
+    //Ampliamos la tabla siempre que este llena, para hacer mas corto el codigo de este metodo lo ponemos al principio para que se compruebe antes de meter un nuevo contrato
+    if(this->ncon==this->nmaxcon){
+    int incremento=nmaxcon+5;
+    Contrato **aux;
+    aux=new Contrato*[incremento];
+    for(int i=0;i<this->nmaxcon;i++){
+        contratos[i]=aux[i];
+    }
+    delete [] aux;
+    }
+    long int dni;
+    std::cout << "Introduce el dni del contrato a crear: "; std::cin >> dni;
+    int pos=this->buscarCliente(dni);
+    if(pos==-1){//Si es igual a -1 es porque el cliente no existe, por tanto lo creamos
+        int dia, mes, anio;
+        cadena nombre;
+        Cliente *c;
+        cout << "El cliente no existe, vamos a crearlo" << endl;
+        cout << "Introduce el Nombre: "; cin >> nombre;
+        cout << "Introduce la Fecha de alta del cliente (dd/mm/aaaa) "; cin >> dia >> mes >> anio;
+        c=new Cliente(dni, nombre, Fecha(dia, mes, anio));
+        pos=this->altaCliente(c);//Tenemos que pasarle a pos la posicion donde se ha introducido a la hora de crear al cliente
+                                 //ya que necesitamos saber si se ha creado o no el cliente
+    }
+        if(pos!=-1){//Si pos es distinto de -1 enonces el cliente existe y se procede a preguntarle los parametros para crear el contrato que este elija
+        int tipocontrato, minutoshablados, d, m, a;
+        cout << "Introduce los minutos hablados para el contrato: "; cin >> minutoshablados;
+        cout << "Introduce la Fecha del contrato del cliente (dd/mm/aaaa) "; cin >> d >> m >> a;
+        cout << "Elige el tipo de contrato que deseas crear (1-Tarifa Plana, 2-Contrato Movil): " << endl;
+        cin >> tipocontrato;
+            if(tipocontrato==1){//Introducimos los datos para este contrato
+                contratos[ncon]=new ContratoTP(dni,Fecha(d,m,a),minutoshablados);
+                ncon++;
+            }
+            else if(tipocontrato==2){
+                cadena nacionalidad;
+                int preciominuto;
+                cout << "Introduce la nacionalidad del cliente: "; cin >> nacionalidad;
+                cout << "Introduce el precio por minuto del contrato: "; cin >> preciominuto;
+                contratos[ncon]=new ContratoMovil(dni,Fecha(d,m,a),preciominuto,minutoshablados,nacionalidad);
+                ncon++;
+            }
+            else{
+                cout << "El contrato no ha podido ser creado" << endl;
+            }
+        }
+    }
+    else{
+        int tipocontrato, minutoshablados, d, m, a;
+        cout << "Introduce los minutos hablados para el contrato: "; cin >> minutoshablados;
+        cout << "Introduce la Fecha del contrato del cliente (dd/mm/aaaa) "; cin >> d >> m >> a;
+        cout << "Elige el tipo de contrato que deseas crear (1-Tarifa Plana, 2-Contrato Movil): " << endl;
+        cin >> tipocontrato;
+            if(tipocontrato==1){//Introducimos los datos para este contrato
+                contratos[ncon]=new ContratoTP(dni,Fecha(d,m,a),minutoshablados);
+                ncon++;
+            }
+            else if(tipocontrato==2){
+                cadena nacionalidad;
+                int preciominuto;
+                cout << "Introduce la nacionalidad del cliente: "; cin >> nacionalidad;
+                cout << "Introduce el precio por minuto del contrato: "; cin >> preciominuto;
+                contratos[ncon]=new ContratoMovil(dni,Fecha(d,m,a),preciominuto,minutoshablados,nacionalidad);
+                ncon++;
+            }
+            else{
+                cout << "El contrato no ha podido ser creado" << endl;
+            }
+    }
+}
+
+bool Empresa::cancelarContrato(int idContrato){
+
+}
+
+bool Empresa::bajaCliente(long int dni){
+
+}
+
+int Empresa::descuento(float porcentaje) const{
+
+}
+
+int Empresa::nContratosTP() const{
+
+}
+
+void Empresa::ver() const{
+
+}
+
+void Empresa::cargarDatos(){
+    clientes[ncli++] = new Cliente(75547001, "Peter Lee", Fecha(28, 2, 2001));
+    clientes[ncli++] = new Cliente(45999000, "Juan Perez", Fecha(29, 2, 2000));
+    clientes[ncli++] = new Cliente(37000017, "Luis Bono", Fecha(31, 1, 2002));
+
+    contratos[ncon++] = new ContratoMovil(75547001, Fecha(28, 2, 2001), 0.12, 110, "DANES");
+    contratos[ncon++] = new ContratoMovil(75547001, Fecha(31, 1, 2002), 0.09, 170, "DANES");
+    contratos[ncon++] = new ContratoTP(37000017, Fecha(1, 2, 2002), 250);
+    contratos[ncon++] = new ContratoTP(75547001, Fecha(28, 2, 2001), 312);
+    contratos[ncon++] = new ContratoMovil(45999000, Fecha(31, 1, 2002), 0.10, 202, "ESPANOL");
+    contratos[ncon++] = new ContratoMovil(75547001, Fecha(31, 1, 2002), 0.15, 80, "DANES");
+    contratos[ncon++] = new ContratoTP(45999000, Fecha(1, 2, 2002), 400);
+}
+
+

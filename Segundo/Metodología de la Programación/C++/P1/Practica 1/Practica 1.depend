@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\miguel sánchez\desktop\practica 1\main.cpp
+	<iostream>
+
+1573665687 source:c:\users\miguel sánchez\desktop\practica 1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1573666378 c:\users\miguel sánchez\desktop\practica 1\include\fecha.h
+	<iostream>
+
+1573666298 source:c:\users\miguel sánchez\desktop\practica 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+
+1573665028 c:\users\miguel sánchez\desktop\practica 1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1574239482 source:h:\practica 1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	<iomanip>
+	<stdlib.h>
+
+1573837088 source:h:\practica 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+
+1574006548 h:\practica 1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1574115142 h:\practica 1\include\fecha.h
+	<iostream>
+
+1573755394 source:h:\practica 1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1574598146 source:g:\practica 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+
+1574598146 g:\practica 1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1574597602 g:\practica 1\include\fecha.h
+	<iostream>
+
+1573755394 source:g:\practica 1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1574607232 source:g:\practica 1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+	<iomanip>
+	<stdlib.h>
+
+1574023498 source:g:\practica 1\src\contrato.cpp
+	"Contrato.h"
+	<iostream>
+
+1574600238 g:\practica 1\include\contrato.h
+	"Fecha.h"
+
+1574596786 source:g:\practica 1\src\contratotp.cpp
+	"ContratoTP.h"
+
+1574597062 g:\practica 1\include\contratotp.h
+	<Contrato.h>
+
+1574597044 g:\practica 1\include\contratomovil.h
+	<Contrato.h>
+
+1574022898 source:g:\practica 1\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<cstring>
+	<iostream>
+
+1574239466 h:\practica 1\include\contrato.h
+	"Fecha.h"
+
+1574239466 h:\practica 1\include\contratotp.h
+	<Contrato.h>
+
+1574240706 h:\practica 1\include\contratomovil.h
+	<Contrato.h>
+
+1574023498 source:h:\practica 1\src\contrato.cpp
+	"Contrato.h"
+	<iostream>
+
+1574022898 source:h:\practica 1\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<cstring>
+	<iostream>
+
+1574012386 source:h:\practica 1\src\contratotp.cpp
+	"ContratoTP.h"
+
+1574241020 source:h:\practica 1\src\empresa.cpp
+	"Empresa.h"
+
+1574242004 h:\practica 1\include\empresa.h
+	"Cliente.h"
+	"Contrato.h"
+
+1574614806 source:g:\practica 1\src\empresa.cpp
+	"Empresa.h"
+
+1574614802 g:\practica 1\include\empresa.h
+	"Cliente.h"
+	"Contrato.h"
+	"Fecha.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1575403366 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1575388436 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\fecha.h
+	<iostream>
+
+1574598146 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1574967328 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\contrato.h
+	"Fecha.h"
+
+1575112552 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\contratotp.h
+	<Contrato.h>
+
+1575112486 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\contratomovil.h
+	"Contrato.h"
+
+1575401992 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\empresa.h
+	"Cliente.h"
+	"Contrato.h"
+	"Fecha.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1574598146 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+
+1574882596 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\contrato.cpp
+	"Contrato.h"
+	<iostream>
+
+1574882792 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<cstring>
+	<iostream>
+
+1574882726 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\contratotp.cpp
+	"ContratoTP.h"
+
+1575388436 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1575403856 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\empresa.cpp
+	"Empresa.h"
+	<iostream>
+	<windows.h>
+	<typeinfo>
+
+1574607232 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+	<iomanip>
+	<stdlib.h>
+
+1574597602 h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\fecha.h
+	<iostream>
+
+1574598146 h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1574600238 h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\contrato.h
+	"Fecha.h"
+
+1574597062 h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\contratotp.h
+	<Contrato.h>
+
+1574597044 h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\contratomovil.h
+	<Contrato.h>
+
+1574614802 h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\include\empresa.h
+	"Cliente.h"
+	"Contrato.h"
+	"Fecha.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1574598146 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+
+1574023498 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\contrato.cpp
+	"Contrato.h"
+	<iostream>
+
+1574022898 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<cstring>
+	<iostream>
+
+1574596786 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\contratotp.cpp
+	"ContratoTP.h"
+
+1574628026 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\empresa.cpp
+	"Empresa.h"
+
+1573755394 source:h:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\p1\practica 1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1575403366 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1575388436 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\include\fecha.h
+	<iostream>
+
+1574598146 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1574967328 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\include\contrato.h
+	"Fecha.h"
+
+1575112552 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\include\contratotp.h
+	<Contrato.h>
+
+1575112486 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\include\contratomovil.h
+	"Contrato.h"
+
+1575401992 g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\include\empresa.h
+	"Cliente.h"
+	"Contrato.h"
+	"Fecha.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1579449580 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+
+1574882596 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\src\contrato.cpp
+	"Contrato.h"
+	<iostream>
+
+1574882792 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\src\contratomovil.cpp
+	"ContratoMovil.h"
+	<cstring>
+	<iostream>
+
+1574882726 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\src\contratotp.cpp
+	"ContratoTP.h"
+
+1575404724 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\src\empresa.cpp
+	"Empresa.h"
+	<iostream>
+	<windows.h>
+	<typeinfo>
+
+1575388436 source:g:\universidad\segundo 19-18\primer cuatrimestre\metodología de la programación\practicas\c++\p1\practica 1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
